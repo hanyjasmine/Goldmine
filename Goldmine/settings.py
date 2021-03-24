@@ -151,7 +151,7 @@ STATICFILES_DIRS = [
 ]
 
 LOGIN_URL = '/'
-LOGIN_REDIRECT_URL = '/dashboard'
+LOGIN_REDIRECT_URL = "https://goldmine-aman.herokuapp.com/dashboard/"
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())

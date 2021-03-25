@@ -47,11 +47,10 @@ def keyword(value):
 
         numbers1 = [int(word) for word in filtered.split() if word.isdigit()]
         # ------------------------------------------------------------
-        driver = webdriver.Chrome(
-            ChromeDriverManager().install(), options=options)
+        driver = webdriver.Chrome(executable_path=os.environ.get(
+            "CHROMEDRIVER_PATH"), options=options)
         key = value + " asuransi"
         url = f'https://www.google.com/search?q={key}'
-        driver.maximize_window()
         driver.get(url)
         content = driver.page_source.encode('utf-8').strip()
         soup = BeautifulSoup(content, "html.parser")

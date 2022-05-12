@@ -17,19 +17,19 @@ companies.
 -------------------------------------------------------------------------------------------
 TEAM COMPOSITION
 -------------------------------------------------------------------------------------------
-Project Lead : An Le
-Tech lead : Nghitrum (Advisory)
-Developers : M. Marcelino Hambali & Hany Jasmine
-QA Engineer : Rafidghadah Damarta
+Project Lead : An Le <br>
+Tech lead : Nghitrum (Advisory) <br>
+Developers : M. Marcelino Hambali & Hany Jasmine <br>
+QA Engineer : Rafidghadah Damarta <br>
 Stakeholders : Steven Tannason
 
 -------------------------------------------------------------------------------------------
 BRIEF OUTLINE
 -------------------------------------------------------------------------------------------
-Project Name : GOLDMINE.
-Estimate Time : 3 – 5 Weeks.
-Type of Project : Web Development.
-Product of Project : Web Scraper with Add-ons.
-SDLC : Dynamic System Development Method (DSDM) AGILE.
-Platform : Django CMS.
+Project Name : GOLDMINE. <br>
+Estimate Time : 3 – 5 Weeks. <br>
+Type of Project : Web Development. <br>
+Product of Project : Web Scraper with Add-ons. <br>
+SDLC : Dynamic System Development Method (DSDM) AGILE. <br>
+Platform : Django CMS. <br>
 Objective : Extract Data to Knowledge.
